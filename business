@@ -1,1 +1,39 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kenzie Fragrance</title>
+</head>
+<body style="background-color: blueviolet;  text-decoration:
+solid;font-family: GEORGIA; font-style: italic;">
+    <h1 style="text-align: center;">kenzie Fragrance</h1>
+    <div>
+    <p style="text-align: center;">     Kenzie Fragrance popularly known as KenzieFrag. is an 
+        international fragrance distributor based in Nigeria.</p>
+        <p>Our sales include;</p>
+        <ul>
+            <li>Body spray</li>
+            <li>perfume</li>
+            <li>fragrance oil</li>
+            <li>perfume oil</li>
+            <li>olive oil</li>
+            <li>rose=scented water</li>
+            <li>air freshner and lots more</li>
+        </ul>
+    </div>
+    <div>
+        <h3>Our services</h3>
+        <p style="font-family: LUCIDA CALLIGRAPHY;">our services Lorem ipsum dolor sit amet consectetur 
+            adipisicing elit. Optio incidunt voluptates error autem nostrum
+             itaque nisi, deleniti qui, sed commodi adipisci magnam esse sequi impedit quo sunt quaerat quisquam
+             amet expedita odio suscipit necessitatibus doloribus.</p>
+             <p>To read more about our terms and service,
+                 click the button below; </p>
+                 <button style="background-color: paleturquoise;"><h4>READ MORE</h4></button>
+             <p>click the link below to place your order</p>
+             <button style="background-color: palevioletred;">
+                <H2>ORDER NOW</H2></button>
+    </div>
+</body>
+</html>
